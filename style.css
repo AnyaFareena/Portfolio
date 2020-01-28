@@ -213,16 +213,16 @@ body {
   }
 
   .full {
-    background: url(../Update-Portfolio/images/knowledge.jpg) 0 0 no-repeat;
+    background: url(images/knowledge.jpg) 0 0 no-repeat;
     min-height: 634px;
   }
   .half {
-    background: url(../Update-Portfolio/images/note.png) 0 0 no-repeat;
+    background: url(images/note.png) 0 0 no-repeat;
     min-height: 301px;
     margin-bottom: 30px;
   }
   .half2 {
-    background: url(../Update-Portfolio/images/day.jpg) 0 0 no-repeat;
+    background: url(images/day.jpg) 0 0 no-repeat;
     min-height: 301px;
   }
   .full, .half, .half2 {
