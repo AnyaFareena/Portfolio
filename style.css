@@ -264,4 +264,9 @@ body {
     .full, .half, .half2 {margin-bottom: 10px;}
   }
 
+  .img-fluid {
+    height:200px;
+    width:200px;
+  }
+
   
